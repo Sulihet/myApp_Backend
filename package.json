@@ -1,0 +1,23 @@
+{
+  "name": "mi-api",
+  "version": "1.0.0",
+  "description": "Esta es mi primer aplicación de Backend con Node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Sulihet/myApp_Backend.git"
+  },
+
+  "keywords": [
+    "api",
+    "node",
+    "javascript",
+    "rest"
+  ],
+  "author": "sulihet",
+  "license": "MIT"
+}
